@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MGavranovic (Milos Gavranovic)
+- 👀 I’m interested in Web Devvelopment
+- 🌱 I’m currently learning PHP(Laravel), React and Web Design
+-  ⚒ I'm looking to start working on my personal Portfolio Website 
+- 📫 If you're trying to reach me you can send an email to mgavranovic7@gmail.com
